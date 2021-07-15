@@ -6,7 +6,7 @@ Installazione:
 
 - Installere i file 
 
-- Creare una cartella chiamata esx_repair
+- rinominare la cartella in esx_repair
 
 - Scrivere nel server.cfg ensure esx_repair
  
@@ -37,7 +37,7 @@ Installation:
 
 - Install the files
 
-- Create a new folder called esx_repair
+- rename the folder in esx_repair
 
 - Write in server.cfg : ensure esx_repair
 
